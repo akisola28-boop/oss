@@ -1,6 +1,6 @@
 #사칙연산
-a=int(input("숫자를 입력하세요"))
-b=int(input("숫자를 입력하세요"))
-op=input()
+a=int(input("a:"))
+b=int(input("b:"))
+op=input("op:")
 if op == '+': print(a+b)
 if op =='-'
